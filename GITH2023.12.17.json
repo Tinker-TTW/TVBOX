@@ -10,12 +10,21 @@
   ],
 
   "sites": [
+
     {
       "key": "drpy_js_豆瓣",
       "name": "豆瓣┃热播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/豆瓣推荐.js"
+    },
+	{
+      "key": "77",
+      "name": "🌈┃七七┃影视",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "drpy_js_007影视",
@@ -25,43 +34,29 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/007影视.js"
     },
     {
-      "key": "drpy_js_333影视.js",
-      "name": "333┃影视",
+      "key": "drpy_js_139影视",
+      "name": "139┃影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/333影视.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/139影视.js"
     },
     {
-      "key": "drpy_js_348电影网",
-      "name": "348┃电影",
+      "key": "drpy_js_360影视",
+      "name": "360┃影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/348电影网.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/360影视.js"
     },
     {
-      "key": "drpy_js_4K剧院",
-      "name": "4K┃剧院",
+      "key": "drpy_js_9U电影",
+      "name": "9U┃电影",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/4K剧院.js"
-    },
-    {
-      "key": "drpy_js_539影院",
-      "name": "539┃影院",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/539影院.js"
-    },
-    {
-      "key": "drpy_js_69美剧",
-      "name": "69┃美剧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/69美剧.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/9U电影.js"
     },
     {
       "key": "drpy_js_B站影视",
-      "name": "哔哩┃影视",
+      "name": "B站┃影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/B站影视.js"
@@ -88,12 +83,26 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/TVB云播.js"
     },
     {
+      "key": "drpy_js_voflix",
+      "name": "voflix┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/voflix.js"
+    },	
+	{
       "key": "drpy_js_两个BT",
       "name": "BT┃影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/两个BT.js"
     },
+    {
+      "key": "drpy_js_人人影视",
+      "name": "人人┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/人人影视.js"
+    },	
     {
       "key": "drpy_js_低端影视",
       "name": "低端┃影视",
@@ -116,12 +125,26 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/免费看.js"
     },
     {
+      "key": "drpy_js_农民影视",
+      "name": "农民┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/农民影视.js"
+    },	
+    {
       "key": "drpy_js_北川影视",
       "name": "北川┃影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/北川影视.js"
     },
+    {
+      "key": "drpy_js_南瓜",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/南瓜.js"
+    },		
     {
       "key": "drpy_js_厂长资源",
       "name": "厂长┃资源",
@@ -165,13 +188,562 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/多瑙影视.js"
     },
     {
+      "key": "drpy_js_大师兄影视",
+      "name": "师兄┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/大师兄影视.js"
+    },
+    {
+      "key": "drpy_js_大米星球",
+      "name": "大米┃星球",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/大米星球.js"
+    },
+    {
       "key": "drpy_js_子子影视",
       "name": "子子┃影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/子子影视.js"
+    },
+    {
+      "key": "drpy_js_影渣渣",
+      "name": "影渣┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/影渣渣.js"
+    },	
+    {
+      "key": "drpy_js_影视工场",
+      "name": "影视┃工场",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/影视工场.js"
+    },		
+    {
+      "key": "drpy_js_快云影院",
+      "name": "快云┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/快云影院.js"
+    },	
+    {
+      "key": "drpy_js_快看",
+      "name": "快看┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/快看.js"
+    },		
+    {
+      "key": "drpy_js_我爱电影网",
+      "name": "我爱┃电影",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/我爱电影网.js"
+    },			
+    {
+      "key": "drpy_js_搜狗视频",
+      "name": "搜狗┃视频",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/搜狗视频.js"
+    },				
+    {
+      "key": "drpy_js_映迷影院",
+      "name": "映迷┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/映迷影院.js"
+    },			
+    {
+      "key": "drpy_js_欧帝影院",
+      "name": "欧帝┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/欧帝影院.js"
+    },		
+    {
+      "key": "drpy_js_歪片星球",
+      "name": "歪片┃星球",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/歪片星球.js"
+    },		
+    {
+      "key": "drpy_js_热播库",
+      "name": "热播库┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/热播库.js"
+    },
+    {
+      "key": "drpy_js_爱奇艺",
+      "name": "爱奇艺┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/爱奇艺.js"
+    },	
+    {
+      "key": "drpy_js_爱看影视",
+      "name": "爱看┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/爱看影视.js"
+    },
+    {
+      "key": "drpy_js_爱看机器人",
+      "name": "爱看┃机器",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/爱看机器人.js"
+    },
+    {
+      "key": "drpy_js_独播库",
+      "name": "独播库┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/独播库.js"
+    },
+    {
+      "key": "drpy_js_电影先生",
+      "name": "电影┃先生",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/电影先生.js"
+    },
+    {
+      "key": "drpy_js_看一看影视",
+      "name": "看看┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/看一看影视.js"
+    },
+    {
+      "key": "drpy_js_看了么",
+      "name": "看了┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/看了么.js"
+    },
+    {
+      "key": "drpy_js_看了么",
+      "name": "看了┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/看了么.js"
+    },
+    {
+      "key": "drpy_js_石榴影院",
+      "name": "石榴┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/石榴影院.js"
+    },
+    {
+      "key": "drpy_js_磁力熊",
+      "name": "磁力熊┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/磁力熊.js"
+    },
+    {
+      "key": "drpy_js_秋霞",
+      "name": "秋霞┃电影",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/秋霞.js"
+    },
+    {
+      "key": "drpy_js_秋霞影视",
+      "name": "秋霞┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/秋霞影视.js"
+    },
+    {
+      "key": "drpy_js_米宝影院",
+      "name": "米宝┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/米宝影院.js"
+    },
+    {
+      "key": "drpy_js_米爱影视",
+      "name": "米爱┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/米爱影视.js"
+    },
+    {
+      "key": "drpy_js_素白白",
+      "name": "素白白┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/素白白.js"
+    },
+    {
+      "key": "drpy_js_纽约影院",
+      "name": "纽约┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/纽约影院.js"
+    },
+    {
+      "key": "drpy_js_网飞.TV",
+      "name": "网飞┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/网飞.TV.js"
+    },
+    {
+      "key": "drpy_js_网飞.TV",
+      "name": "网飞┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/网飞.TV.js"
+    },
+    {
+      "key": "drpy_js_胖虎影视",
+      "name": "胖虎┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/胖虎影视.js"
+    },
+    {
+      "key": "drpy_js_腾讯视频",
+      "name": "腾讯┃视频",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/腾讯视频.js"
+    },
+    {
+      "key": "drpy_js_芒果",
+      "name": "芒果┃视频",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/芒果.js"
+    },
+    {
+      "key": "drpy_js_荐片",
+      "name": "荐片┃视频",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/荐片.js"
+    },
+    {
+      "key": "drpy_js_蓝莓影视",
+      "name": "蓝莓┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/蓝莓影视.js"
+    },	
+    {
+      "key": "drpy_js_蜥蜴影视",
+      "name": "蜥蜴┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/蜥蜴影视.js"
+    },		
+    {
+      "key": "drpy_js_西瓜影视",
+      "name": "西瓜┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/西瓜影视.js"
+    },			
+    {
+      "key": "drpy_js_起飞影院",
+      "name": "起飞┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/起飞影院.js"
+    },			
+    {
+      "key": "drpy_js_追剧兔",
+      "name": "追剧兔┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/追剧兔.js"
+    },		
+    {
+      "key": "drpy_js_酷云77",
+      "name": "酷云┃七七",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/酷云77.js"
+    },			
+    {
+      "key": "drpy_js_金曼影视",
+      "name": "金曼┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/金曼影视.js"
+    },		
+    {
+      "key": "drpy_js_69美剧",
+      "name": "69┃美剧",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/69美剧.js"
+    },
+    {
+      "key": "drpy_js_348电影网",
+      "name": "348┃电影网",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/348电影网.json"
+    },	
+    {
+      "key": "drpy_js_4KHDR",
+      "name": "4KHDR┃电影",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/4KHDR.json"
+    },		
+    {
+      "key": "drpy_js_555影视",
+      "name": "555┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/555影视.json"
+    },		
+    {
+      "key": "drpy_js_A8影视",
+      "name": "A8┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/A8影视.json"
+    },		
+    {
+      "key": "drpy_js_BT天堂",
+      "name": "BT┃天堂",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/BT天堂.json"
+    },
+    {
+      "key": "drpy_js_COKEMV影院",
+      "name": "COKEMV┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/COKEMV影院.json"
+    },	
+    {
+      "key": "drpy_js_JOJO",
+      "name": "JOJO┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/JOJO.json"
+    },		
+    {
+      "key": "drpy_js_MOFLIX影院",
+      "name": "MOFLIX┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/MOFLIX影院.json"
+    },	
+    {
+      "key": "drpy_js_人人影视",
+      "name": "人人┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/人人影视.json"
+    },	
+    {
+      "key": "drpy_js_兄弟影视",
+      "name": "兄弟┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/兄弟影视.json"
+    },		
+    {
+      "key": "drpy_js_厂长影视",
+      "name": "厂长┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/厂长影视.json"
+    },		
+    {
+      "key": "drpy_js_哔嘀影视",
+      "name": "哔嘀┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/哔嘀影视.json"
+    },		
+    {
+      "key": "drpy_js_奇趣影视",
+      "name": "奇趣┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/奇趣影视.json"
+    },			
+    {
+      "key": "drpy_js_奈飞中文",
+      "name": "奈飞┃中文",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/奈飞中文.json"
+    },		
+    {
+      "key": "drpy_js_好戏影视",
+      "name": "好戏┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/好戏影视.json"
+    },		
+    {
+      "key": "drpy_js_子子影视",
+      "name": "子子┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/子子影视.json"
+    },		
+    {
+      "key": "drpy_js_影渣渣影视",
+      "name": "影渣┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/影渣渣影视.json"
+    },	
+    {
+      "key": "drpy_js_影视工场",
+      "name": "影视┃工场",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/影视工场.json"
+    },	
+    {
+      "key": "drpy_js_映迷",
+      "name": "映迷┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/映迷.json"
+    },	
+    {
+      "key": "drpy_js_极影网",
+      "name": "极影┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/极影网.json"
+    },	
+    {
+      "key": "drpy_js_歪片星球",
+      "name": "歪片┃星球",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/歪片星球.json"
+    },		
+    {
+      "key": "drpy_js_爱看影院",
+      "name": "爱看┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/爱看影院.json"
+    },		
+    {
+      "key": "drpy_js_玩偶哥哥",
+      "name": "玩偶┃哥哥",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/玩偶哥哥.json"
+    },		
+    {
+      "key": "drpy_js_电影牛影院",
+      "name": "电影┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/电影牛影院.json"
+    },		
+    {
+      "key": "drpy_js_看一看影视",
+      "name": "看看┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/看一看影视.json"
+    },		
+    {
+      "key": "drpy_js_真不卡影院",
+      "name": "真不卡┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/真不卡影院.json"
+    },		
+    {
+      "key": "drpy_js_秋霞影视",
+      "name": "秋霞┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/秋霞影视.json"
+    },	
+    {
+      "key": "drpy_js_素博影院",
+      "name": "素博┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/素博影院.json"
+    },
+    {
+      "key": "drpy_js_红领巾影院",
+      "name": "红领巾┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/红领巾影院.json"
+    },
+    {
+      "key": "drpy_js_耐看点播",
+      "name": "耐看┃点播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/耐看点播.json"
+    },
+    {
+      "key": "drpy_js_臭蛋蛋影视",
+      "name": "臭蛋┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/臭蛋蛋影视.json"
+    },
+    {
+      "key": "drpy_js_蓝光影院",
+      "name": "蓝光┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/蓝光影院.json"
+    },
+    {
+      "key": "drpy_js_达达龟",
+      "name": "达达龟┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/达达龟.json"
+    },
+    {
+      "key": "drpy_js_速搜影院",
+      "name": "速搜┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/速搜影院.json"
+    },
+    {
+      "key": "drpy_js_锐行加速影院",
+      "name": "锐行┃影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/锐行加速影院.json"
+    },
+    {
+      "key": "drpy_js_鸭奈飞影视",
+      "name": "鸭奈飞┃影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/json/XYQHiker/鸭奈飞影视.json"
     }
   ],
+  
+  
+  
 
   "rules": [
     {

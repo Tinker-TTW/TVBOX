@@ -1,11 +1,11 @@
 {
 //jar配置
-"spider": "./jar/18.jar",
+//"spider": "./main/jar/18.jar",
 
 //电视直播
 // "lives": [{"name": "电视直播","type": 0,"url": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/live/FL_live.txt"}],
   
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vVGlua2VyLVRUVy9UVkJPWC9tYWluL2xpdmUvRkxfbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC5jb24uc2gvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1Rpbmtlci1UVFcvVFZCT1gvbWFpbi9saXZlL0ZMX2xpdmUudHh0"]}]}],
  
   
 //数据接口

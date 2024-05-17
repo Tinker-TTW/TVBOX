@@ -10,8 +10,6 @@
   
 //数据接口
 "sites": [
-
-
 {"key": "博天堂","name": "博天堂","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable": 1,"quickSearch": 1},
 {"key": "老鸭资源","name": "老鸭资源","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list","playUrl": "https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"环亚资源","name":"环亚资源","type":0,"api": "http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
@@ -42,11 +40,9 @@
   //{"key":"99zywcj.com","name":"99资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
   //{"key":"哥哥妹妹","name":"哥哥妹妹","type":0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"伊人","name":"伊人","api":"https://api.yrzyapi.com/api.php/provide/vod/?ac=list","playUrl":"https://player.yrplay1.com/m3u8/?url=","group":"18+","search":2,"status":true,"type":1,"id":95,"isActive":true,"resource":75632}, 
-  
-  //可用{"key":"飞速资源","name":"飞速资源","api":"https://www.feisuzyapi.com/api.php/provide/vod/","group":"默认","status":true,"type":1,"id":60,"search":1,"playUrl":"","isActive":true,"resource":52050},
+    //可用{"key":"飞速资源","name":"飞速资源","api":"https://www.feisuzyapi.com/api.php/provide/vod/","group":"默认","status":true,"type":1,"id":60,"search":1,"playUrl":"","isActive":true,"resource":52050},
   //可用{"key":"最大资源","name":"最大资源","api":"http://zuidazy.me/api.php/provide/vod/at/xml","group":"默认","status":true,"type":0,"search":1,"id":80,"playUrl":""},
   //可用{"key":"bajiecaiji","name":"八戒采集","api":"http://cj.bajiecaiji.com/inc/bjm3u8.php","group":"影视","status":true,"type":0,"search":1,"id":104,"playUrl":""},
-  
   
 ]，
 

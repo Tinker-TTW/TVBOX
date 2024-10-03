@@ -9,6 +9,7 @@
 
 //数据接口
 "sites": [
+
 {"key":"madouse.la","name":"麻豆视频","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"51smt4.xyz","name":"水蜜桃研究所","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"ggmmzy.com","name":"哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"filterable":1},
@@ -903,19 +904,9 @@
 {"key":"api.sexnguon.com","name":"🍒成人62(直连)","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"filterable":0},
 {"key":"lbapiby.com","name":"🍒成人63(直连)","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"filterable":0},
 {"key":"lf_js_lf_live","name":"🍓直播(直连)(蜂蜜)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"},
-{"key":"nivod18","name":"🍓泥巴cat(墙外)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/nivod_op.js","filterable":1,"ext":"做爱"},
 {"key":"mtsp_open","name":"🍓mtspcat","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/mtsp_open.js","filterable":1},
 {"key":"18av_open","name":"🍓18avcat(墙外)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/18av_open.js","filterable":1},
 {"key":"玉兔资源","name":"🍓玉兔资源(直连)","type":0,"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_猫了个咪","name":"🍓猫了个咪","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/猫了个咪.js"},
-{"key":"drpy_js_跑TV","name":"🍓跑TV","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/跑TV.js"},
-{"key":"drpy_js_18av","name":"🍓18av(墙外)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/18av.js"},
-{"key":"drpy_js_banan","name":"🍓banan(直连)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/banan.js"},
-{"key":"drpy_js_Missav","name":"🍓Missav(直连)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/Missav.js"},
-{"key":"drpy_js_玩偶姐姐","name":"🍓玩偶姐姐(直连)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/玩偶姐姐.js"},
-{"key":"drpy_js_吸瓜","name":"🍓吸瓜(直连)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/吸瓜.js"},
-{"key":"drpy_js_养端","name":"🍓养端(直连)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/养端.js"},
-{"key":"drpy_js_朱古力","name":"🍓朱古力(直连)","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js/朱古力.js"},
 {"key":"kd","name":"🍓酷豆(直连)","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kulunli","name":"🍓酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"timizy","name":"🍓甜蜜资源 (直连)","type":1,"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
@@ -956,8 +947,7 @@
 {"key":"JAV名优馆","name":"🍅JAV名优馆(直连)","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"zp129","name":"🍅鲨鱼资源(直连)","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"zp061","name":"🍅富二代资源(直连)","type":0,"api":"http://f2dcj6.com/sapi/?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"lyzyz78|laoyazy.com","name":"🍅老鸭资源(直连)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"BT天堂","name":"BT天堂","type":0,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","categories":[]}
+{"key":"lyzyz78|laoyazy.com","name":"🍅老鸭资源(直连)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}
 
 ],
 

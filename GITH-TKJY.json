@@ -15,8 +15,8 @@
       "key": "drpy_js_豆瓣",
       "name": "豆瓣┃热播",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/豆瓣推荐.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/豆瓣推荐.js"
     },
 	{
       "key": "77",
@@ -30,261 +30,261 @@
       "key": "drpy_js_007影视",
       "name": "007┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/007影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/007影视.js"
     },
     {
       "key": "drpy_js_360影视",
       "name": "360┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/360影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/360影视.js"
     },
     {
       "key": "drpy_js_9U电影",
       "name": "9U┃电影",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/9U电影.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/9U电影.js"
     },
     {
       "key": "drpy_js_B站影视",
       "name": "B站┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/B站影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/B站影视.js"
     },
     {
       "key": "drpy_js_FreeOK",
       "name": "FreeOK┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/FreeOK.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/FreeOK.js"
     },
     {
       "key": "drpy_js_LIBVIO",
       "name": "LIBVIO┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/LIBVIO.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/LIBVIO.js"
     },
     {
       "key": "drpy_js_TVB云播",
       "name": "TVB┃云播",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/TVB云播.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/TVB云播.js"
     },
     {
       "key": "drpy_js_voflix",
       "name": "voflix┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/voflix.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/voflix.js"
     },	
 	{
       "key": "drpy_js_两个BT",
       "name": "BT┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/两个BT.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/两个BT.js"
     },
     {
       "key": "drpy_js_低端影视",
       "name": "低端┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/低端影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/低端影视.js"
     },
     {
       "key": "drpy_js_农民影视",
       "name": "农民┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/农民影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/农民影视.js"
     },	
     {
       "key": "drpy_js_南瓜",
       "name": "南瓜┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/南瓜.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/南瓜.js"
     },		
     {
       "key": "drpy_js_厂长资源",
       "name": "厂长┃资源",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/厂长资源.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/厂长资源.js"
     },
     {
       "key": "drpy_js_吼吼",
       "name": "吼吼┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/吼吼.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/吼吼.js"
     },
     {
       "key": "drpy_js_四个圈影视",
       "name": "四圈┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/四个圈影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/四个圈影视.js"
     },
     {
       "key": "drpy_js_多瑙影视",
       "name": "多瑙┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/多瑙影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/多瑙影视.js"
     },
     {
       "key": "drpy_js_大师兄影视",
       "name": "师兄┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/大师兄影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/大师兄影视.js"
     },
     {
       "key": "drpy_js_大米星球",
       "name": "大米┃星球",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/大米星球.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/大米星球.js"
     },
     {
       "key": "drpy_js_搜狗视频",
       "name": "搜狗┃视频",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/搜狗视频.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/搜狗视频.js"
     },				
     {
       "key": "drpy_js_欧帝影院",
       "name": "欧帝┃影院",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/欧帝影院.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/欧帝影院.js"
     },		
     {
       "key": "drpy_js_热播库",
       "name": "热播库┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/热播库.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/热播库.js"
     },
     {
       "key": "drpy_js_爱奇艺",
       "name": "爱奇艺┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/爱奇艺.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/爱奇艺.js"
     },	
 
     {
       "key": "drpy_js_爱看机器人",
       "name": "爱看┃机器",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/爱看机器人.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/爱看机器人.js"
     },
     {
       "key": "drpy_js_电影先生",
       "name": "电影┃先生",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/电影先生.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/电影先生.js"
     },
     {
       "key": "drpy_js_看了么",
       "name": "看了┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/看了么.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/看了么.js"
     },
     {
       "key": "drpy_js_秋霞",
       "name": "秋霞┃电影",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/秋霞.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/秋霞.js"
     },
     {
       "key": "drpy_js_米爱影视",
       "name": "米爱┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/米爱影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/米爱影视.js"
     },
     {
       "key": "drpy_js_素白白",
       "name": "素白白┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/素白白.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/素白白.js"
     },
     {
       "key": "drpy_js_网飞.TV",
       "name": "网飞┃影院",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/网飞.TV.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/网飞.TV.js"
     },
     {
       "key": "drpy_js_网飞.TV",
       "name": "网飞┃影院",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/网飞.TV.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/网飞.TV.js"
     },
     {
       "key": "drpy_js_胖虎影视",
       "name": "胖虎┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/胖虎影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/胖虎影视.js"
     },
     {
       "key": "drpy_js_芒果",
       "name": "芒果┃视频",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/芒果.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/芒果.js"
     },
     {
       "key": "drpy_js_荐片",
       "name": "荐片┃视频",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/荐片.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/荐片.js"
     },
     {
       "key": "drpy_js_西瓜影视",
       "name": "西瓜┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/西瓜影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/西瓜影视.js"
     },			
     {
       "key": "drpy_js_起飞影院",
       "name": "起飞┃影院",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/起飞影院.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/起飞影院.js"
     },			
     {
       "key": "drpy_js_金曼影视",
       "name": "金曼┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/金曼影视.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/金曼影视.js"
     },		
     {
       "key": "drpy_js_69美剧",
       "name": "69┃美剧",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/69美剧.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/69美剧.js"
     }
 	
   ],
